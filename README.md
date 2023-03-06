@@ -1,2 +1,2 @@
-# oriondiscord-bot
-Discord Bot
+# goldlandshelper-bot
+ 
